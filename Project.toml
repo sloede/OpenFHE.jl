@@ -10,7 +10,7 @@ UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 openfhe_julia_jll = "e5e97983-1b8c-50fe-92b7-0e05c8c202e2"
 
 [compat]
-CxxWrap = "0.14"
+CxxWrap = "0.14, 0.15"
 Preferences = "1.4"
 UUIDs = "1"
 julia = "1.8"
